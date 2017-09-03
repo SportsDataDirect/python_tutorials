@@ -1,6 +1,5 @@
 # Installation
-If you're unfamiliar with python, we recommend you use Anaconda's Python distribution. All examples are tested with python 3.6.1
-asdfasdf:  
+If you're unfamiliar with python, we recommend you use Anaconda's Python distribution. All examples are tested with python 3.6.1.
 
 1. Install Python 3.6.1
 2. `conda install pandas jupyter matplotlib seaborn` -- if you use python regularly create a condenv or virutal env.
