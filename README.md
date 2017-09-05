@@ -3,7 +3,7 @@ If you're unfamiliar with python, we recommend you use Anaconda's Python distrib
 
 1. Install Python 3.6.1 [We recommend Anaconda's distribution](https://www.anaconda.com/download/)
 2. Open the "Anaconda Prompt" -- or whatever shell you commonly use. 
-2. `conda install pandas jupyter matplotlib seaborn` -- if you use python regularly create a condenv or virutal env.
+2. `conda install pandas jupyter matplotlib seaborn scikit-learn` -- if you use python regularly create a condenv or virutal env.
 3. `pip install sdd_api`
 3. `git clone https://github.com/SportsDataDirect/python_tutorials/`
 3. `cd python_tutorials`
