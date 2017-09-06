@@ -10,4 +10,5 @@ If you're unfamiliar with python, we recommend you use Anaconda's Python distrib
 4. Rename credentials.py.template to credentials.py and fill with:
     - your username and password to [Sports Data Direct](https://www.sportsdatadirect.com)
     - your client_id and client_secret from [Your Profile](https://www.sportsdatadirect.com/users/profile)
-4. Run `jupyter notebook` and start exploring! Our [Data Access Example Notebook](https://github.com/SportsDataDirect/python_tutorials/blob/master/Python%20Data%20Access%20Example.ipynb) is a good place to start.
+4. Run `jupyter notebook` and start exploring! 
+    - Our [Data Access Example Notebook](https://github.com/SportsDataDirect/python_tutorials/blob/master/Python%20Data%20Access%20Example.ipynb) is a good place to start.
